@@ -20,7 +20,7 @@ pathspec==0.3.4
 pysolr==3.6.0
 python-dateutil==2.5.3
 python-google-places==1.2.0
-PyYAML==3.12
+PyYAML==5.4
 requests==2.12.1
 requests-aws4auth==0.9
 requests-oauthlib==0.7.0
